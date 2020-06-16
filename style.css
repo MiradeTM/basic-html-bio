@@ -1,0 +1,28 @@
+body {background-color:#efeee7;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color:#333333;
+line-height:150%;
+margin;0;
+padding:0}
+
+header {background-color:#333333}
+
+h1 
+{color:#eee;
+font-size:28px;
+text-align:center;
+margin-top:5px;
+margin-bottom:5px}
+
+h2 {font-size:24px;}
+
+.container {margin:auto; width: 1024px}
+
+#main-bio{float:left} 
+#contact-info{float:left}
+ #bio-image {float:left}
+
+#bio-image {width:200px}
+#main-bio {width:70%}
+img {margin-right:20px}
+#contact-info {width:30%}
